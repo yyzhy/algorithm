@@ -5,5 +5,7 @@ package com.zy.algorithm.binarytree;
  *
  */
 public class TreeNode {
-	
+	TreeNode left;
+	TreeNode right;
+	int element;
 }
